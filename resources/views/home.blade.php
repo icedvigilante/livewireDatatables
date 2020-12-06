@@ -8,7 +8,7 @@
                 <div class="card-header">{{ __('Dashboard') }}</div>
 
                 <div class="card-body">
-
+                    <livewire:datatable model="App\Models\User"></livewire:datatable>
                 </div>
             </div>
         </div>
