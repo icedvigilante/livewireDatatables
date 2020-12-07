@@ -18,4 +18,5 @@
             @endforeach
         </tbody>
     </table>
+    {{ $this->records()->links() }}
 </div>

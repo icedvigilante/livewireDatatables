@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dbdba04-6a4a-499f-846d-e0b77772f13a" name="Default Changelist" comment="extract columns and apply to table head and match records to columns">
-      <change afterPath="$PROJECT_DIR$/storage/debugbar/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="1dbdba04-6a4a-499f-846d-e0b77772f13a" name="Default Changelist" comment="Implement Excludes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Livewire/Datatable.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/Datatable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/datatable.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/datatable.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607276885358</updated>
       <workItem from="1607276887262" duration="1559000" />
-      <workItem from="1607284067740" duration="5158000" />
+      <workItem from="1607284067740" duration="5819000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1607278406754</created>
@@ -192,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607292924881</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implement Excludes">
+      <created>1607299094054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607299094054</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +218,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="setup builder" />
     <MESSAGE value="extract columns and apply to table head and match records to columns" />
-    <option name="LAST_COMMIT_MESSAGE" value="extract columns and apply to table head and match records to columns" />
+    <MESSAGE value="Implement Excludes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement Excludes" />
   </component>
 </project>
